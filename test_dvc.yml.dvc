@@ -1,0 +1,4 @@
+outs:
+- md5: f55a78e3d78ff3f27e2f3deb08ddd71b
+  size: 12970
+  path: test_dvc.yml
